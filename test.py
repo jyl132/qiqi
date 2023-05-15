@@ -1,3 +1,5 @@
 #!/usr/bin/python
-print("yiyi")
-print("qiqi")
+print("ww")
+print("aa")
+print("dd")
+
